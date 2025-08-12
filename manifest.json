@@ -3,7 +3,7 @@
   "name": "ふきだしくんエクスポート",
   "version": "1.0",
   "description": "投稿、名前、いいねの数、付箋の色(RGB値)をCSV形式でクリップボードにコピーします",
-  "permissions": ["activeTab", "scripting"],
+  "permissions": ["activeTab", "scripting", "clipboardWrite"],
   "action": {
     "default_icon": {
       "16": "images/icon16.png",
